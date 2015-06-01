@@ -34,6 +34,16 @@ Then, use a couple minutes to have students write what they learned
 [Libraries for Data Science] 5 minutes (65)
 Just talk about what each of these libraries are. Let students know we'll really just be using pandas, as that's 99% of the job anyway (in code, at least).
 
+- __```numpy```__ - scientific computation library. Has a really powerful matrix datatype that is the basis of the ```pandas``` library and contains the functionality of that 
+- __```scipy```__ - a library built on the numpy library but has more advaced linear algebra and numerical algorithm functions
+- __```pandas```__ - We will be working with the for most of the day. It's built on numpy. A library for data analysis
+- __```matplotlib```__ - The python 2D plotting library
+- __```statsmodel```__ - A library for statistical models and testing
+- __```scikitlearn```__ - Library for machine learning
+- __```nltk```__ - Library for natural language processing
+
+
+
 [pandas and object oriented programming] 15 minutes (80)
 Walk students through how to read `<class 'pandas.core.frame.DataFrame'>` I like to pull up the github for pandas and show the folders and files it fits into:
 
